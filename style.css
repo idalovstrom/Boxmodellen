@@ -1,0 +1,32 @@
+body{
+	background-color: indianred;
+	font-family: Verdana;
+	color: white;
+}
+h1{
+	font-size: 45px;
+}
+.box{
+	width: 500px;
+	height: 500px;
+	border: 3px solid black;
+	padding: 5px;
+	background-color: white;
+	font-size: 15px;
+	box-sizing: border-box;
+}
+.inner1{
+	width: 98%;
+	height: 46.5%;
+	background-color: green;
+	padding-left: 10px;
+	padding-top: 15px;
+	margin-bottom: 5px;
+}
+.inner2{
+	width: 98%;
+	height: 46.5%;
+	background-color: red;
+	padding-left: 10px;
+	padding-top: 15px;
+}
